@@ -1,0 +1,41 @@
+@import url('frontpage.css');
+
+body,html{
+	background-image: url('images/night_s.jpg');
+}
+
+a, a:visited { text-decoration: none; color: #ADABAE; }
+a:hover { text-decoration: none; color: #ADABAE; }
+a:link { text-decoration: none; color: #ADABAE; }
+
+#all
+ {
+	color: #ADABAE;		
+}
+
+#desc_cell1, #desc_cell2, #desc_cell3, #desc_cell4, #desc_cell5, #desc_cell6, #desc_cell7, #desc_cell8, #desc_cell9,
+#desc_cell10, #desc_cell11, #desc_cell12, #desc_cell13, #desc_cell14, #desc_cell15, #desc_cell16, #desc_cell17, #desc_cell18, #desc_cell19,
+#desc_cell20, #desc_cell21, #desc_cell23,
+#desc_cell2_1, #desc_cell2_2, #desc_cell2_3, #desc_cell2_4, #desc_cell2_5, #desc_cell2_6, #desc_cell2_7, #desc_cell2_8, #desc_cell2_9,
+#desc_cell2_10, #desc_cell2_11, #desc_cell2_12, #desc_cell2_13, #desc_cell2_14, #desc_cell2_15, #desc_cell2_16, #desc_cell2_17, #desc_cell2_18, #desc_cell2_19,
+#desc_cell2_20, #desc_cell2_21, #desc_cell2_23, #desc_cell2_25
+{						   
+	background: #414141;
+}
+
+#cell1, #cell2, #cell3, #cell25, #cell4, #cell5, 
+#cell6, #cell7, #cell8, #cell9, #cell10, 
+#cell11, #cell12, #cell13, #cell14, #cell15, 
+#cell16, #cell17, #cell18, #cell19, #cell20, 
+#cell21, #cell22, #cell23,
+#cell2_1, #cell2_2, #cell2_3, #cell2_25, #cell2_4, #cell2_5, 
+#cell2_6, #cell2_7, #cell2_8, #cell2_9, #cell2_10, 
+#cell2_11, #cell2_12, #cell2_13, #cell2_14, #cell2_15, 
+#cell2_16, #cell2_17, #cell2_18, #cell2_19, #cell2_20, 
+#cell2_21, #cell2_22, #cell2_23,
+#cell1a, #cell1b, #cell2a, #cell2b, #cell4a, #cell4b, #cell5a, #cell5b,
+#cell2_1a, #cell2_1b, #cell2_2a, #cell2_2b, #cell2_4a, #cell2_4b, #cell2_5a, #cell2_5b
+{
+	color: #ADABAE !important;
+	background-color: #35353F;
+}
